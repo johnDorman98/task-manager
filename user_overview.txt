@@ -1,0 +1,26 @@
+The total number of users: 4
+The total number of tasks: 5
+User: admin
+The total number of tasks assigned to admin: 3
+The percentage of tasks assigned to admin: 60.0%
+The percentage of tasks assigned to admin that has been completed: 66.67%
+The percentage of tasks assigned to admin that must still be completed: 33.33%
+The percentage of tasks assigned to admin that not yet been completed and are overdue: 33.33%
+User: john
+The total number of tasks assigned to john: 2
+The percentage of tasks assigned to john: 40.0%
+The percentage of tasks assigned to john that has been completed: 100.0%
+The percentage of tasks assigned to john that must still be completed: 0.0%
+The percentage of tasks assigned to john that not yet been completed and are overdue: 50.0%
+User: testing_user
+The total number of tasks assigned to testing_user: 0
+The percentage of tasks assigned to testing_user: 0.0%
+The percentage of tasks assigned to testing_user that has been completed: 0%
+The percentage of tasks assigned to testing_user that must still be completed: 0%
+The percentage of tasks assigned to testing_user that not yet been completed and are overdue: 0%
+User: testing
+The total number of tasks assigned to testing: 0
+The percentage of tasks assigned to testing: 0.0%
+The percentage of tasks assigned to testing that has been completed: 0%
+The percentage of tasks assigned to testing that must still be completed: 0%
+The percentage of tasks assigned to testing that not yet been completed and are overdue: 0%
