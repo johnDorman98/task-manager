@@ -120,7 +120,10 @@ def view_mine():
     
     print("")
 
-    if current_task[-3:] != "Yes":
+    if selected_task == -1:
+        return
+    
+    elif current_task[-3:] != "Yes":
         if selected_task != -1:
             user_choice = input("Type 'mark' to mark the current task as "
                                 "completed, Or type 'edit' to edit the current"
@@ -174,7 +177,6 @@ def view_mine():
                 else:
                     return print("Sorry please choose only 'user' or 'due' to"
                         " edit the selected task.\n")
-
     else:
         print("Sorry you can only edit tasks that have not been marked as "
                 "completed yet.\n")
